@@ -1,0 +1,15 @@
+D:\ИИ\Home_Tasks_30.09.2022\2Task\bin\Debug\net6.0\2Task.exe
+D:\ИИ\Home_Tasks_30.09.2022\2Task\bin\Debug\net6.0\2Task.deps.json
+D:\ИИ\Home_Tasks_30.09.2022\2Task\bin\Debug\net6.0\2Task.runtimeconfig.json
+D:\ИИ\Home_Tasks_30.09.2022\2Task\bin\Debug\net6.0\2Task.dll
+D:\ИИ\Home_Tasks_30.09.2022\2Task\bin\Debug\net6.0\2Task.pdb
+D:\ИИ\Home_Tasks_30.09.2022\2Task\obj\Debug\net6.0\2Task.csproj.AssemblyReference.cache
+D:\ИИ\Home_Tasks_30.09.2022\2Task\obj\Debug\net6.0\2Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИИ\Home_Tasks_30.09.2022\2Task\obj\Debug\net6.0\2Task.AssemblyInfoInputs.cache
+D:\ИИ\Home_Tasks_30.09.2022\2Task\obj\Debug\net6.0\2Task.AssemblyInfo.cs
+D:\ИИ\Home_Tasks_30.09.2022\2Task\obj\Debug\net6.0\2Task.csproj.CoreCompileInputs.cache
+D:\ИИ\Home_Tasks_30.09.2022\2Task\obj\Debug\net6.0\2Task.dll
+D:\ИИ\Home_Tasks_30.09.2022\2Task\obj\Debug\net6.0\refint\2Task.dll
+D:\ИИ\Home_Tasks_30.09.2022\2Task\obj\Debug\net6.0\2Task.pdb
+D:\ИИ\Home_Tasks_30.09.2022\2Task\obj\Debug\net6.0\2Task.genruntimeconfig.cache
+D:\ИИ\Home_Tasks_30.09.2022\2Task\obj\Debug\net6.0\ref\2Task.dll
